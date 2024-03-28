@@ -1,6 +1,3 @@
-
-This Python code generates RSA public and private keys, encrypts and decrypts the message "Hello World", and prints out the keys, ciphertext, and plaintext. Here's a summary of what it does:
-
 Prime Number Generation:
 
 The code defines a function is_prime(num) to check if a number is prime.
@@ -23,4 +20,3 @@ The decrypted ASCII values are converted back to characters using the chr() func
 Output:
 
 The program prints out the public key, private key, modulus n, Euler's totient phi(n), prime numbers p and q, ciphertext, and the decrypted plaintext message.
-This code demonstrates the basics of RSA encryption and decryption in Python, along with key generation
