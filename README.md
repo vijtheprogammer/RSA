@@ -1,4 +1,4 @@
-Prime Number Generation:
+RSA Encryption and Decryption
 
 The code defines a function is_prime(num) to check if a number is prime.
 Another function gen_prime(min, max) generates a prime number within a given range by repeatedly generating random numbers until a prime one is found.
